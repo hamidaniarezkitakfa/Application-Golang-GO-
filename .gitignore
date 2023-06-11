@@ -1,0 +1,22 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Binaries for programs and plugins
+*.bin
+*.out
+*.o
+
+# Cache and build directories
+*.cache/
+*.log
+*.test
+*.tmp
+*.bak
+*.swp
+*/_obj/
+*_test/
+*_bench
